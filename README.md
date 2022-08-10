@@ -10,6 +10,8 @@ Docker
 
 2. docker start/stop/restart CONTAINER_ID
 
+3. docker exec -it odoo bash
+
 Note
 
 1. https://hub.docker.com/_/odoo/
